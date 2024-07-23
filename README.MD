@@ -1,4 +1,4 @@
-> **Aviso**  
+> **⚠️ Alerta**  
 > 
 > Esta branch é destinada ao desenvolvimento e pode ser considerada instável. Utilize a branch `main` para obter a versão estável deste software.
 
