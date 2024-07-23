@@ -1,3 +1,7 @@
+> **Aviso**  
+> 
+> Esta branch é destinada ao desenvolvimento e pode ser considerada instável. Utilize a branch `main` para obter a versão estável deste software.
+
 # DescriptoLab
 
 Descriptolab é um projeto desenvolvido como parte de um desafio da Alura Cursos. Durante essa formação, adquiri conhecimentos sobre lógica de programação em JavaScript, criação de páginas HTML e estilização com CSS.
